@@ -179,7 +179,7 @@ Awarded for outstanding performance in the 48-hour Generative AI Hackathon.
 ## 📬 Contact
 
 **Muhammad Sarmad Sohail**  
-[Portfolio](https://msarmadsohail.github.io) · [LinkedIn](https://linkedin.com/in/msarmadsohail) · [Google Scholar](https://scholar.google.com/citations?user=zw7ItZkAAAAJ&hl=en)
+[Portfolio](https://msarmadsohail.github.io) • [LinkedIn](https://linkedin.com/in/msarmadsohail) • [Google Scholar](https://scholar.google.com/citations?user=zw7ItZkAAAAJ&hl=en)
 
 ---
 
